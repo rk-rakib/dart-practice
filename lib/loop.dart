@@ -24,15 +24,19 @@ main() {
 
 
 
+name.forEach((element)
+{
+  print(element);
+});
 
 
 
   //foreach
-  for(String item in name)
+  /*for(String item in name)
     {
       print(item);
     }
-
+*/
   int i=1;
   do{
     print('Number if while $i');
